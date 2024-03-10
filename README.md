@@ -1,12 +1,12 @@
 # FULL3 Setup (Frontend & Backend) - Powered by React, Hardhat, Tailwind, and Thirdweb
 
 ## INSTALLATION
-- First Install as global dependency: **`npm install -g full3`**
-- Initialize new project: **`npx full3`**
+- First Install as global dependency: **`npm install -g full-three`**
+- Initialize new project: **`npx full-three`**
 
 
 ## About the Starter
-This is the app setup for a FULL STACK WEB3 project created by the FULL3 package. The FULL3 package is powered by the following technologies:
+This is the app setup for a FULL STACK WEB3 project created by the FULL-three package. The FULL-three package is powered by the following technologies:
 
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces. It provides the foundation for creating interactive and dynamic UI components in the frontend of the web3 project.
 
@@ -16,7 +16,7 @@ This is the app setup for a FULL STACK WEB3 project created by the FULL3 package
 
 - [Thirdweb](https://thirdweb.com/): A platform that offers services and tools for developing web3 applications. Thirdweb provides a Software Development Kit (SDK) and related packages, such as `@thirdweb-dev/react`, for specific functionalities, making it a valuable component in building web3 applications.
 
-The FULL3 package simplifies the setup process for a full-stack web3 project. Users can easily initialize this project in their desired directory by running `npx full3` in the command line. The package provides both frontend and backend configurations, enabling users to seamlessly interact with Ethereum and Ethereum-like networks. It comes with essential dependencies and devDependencies for a smooth development experience and provides deployment scripts for various networks, making it a powerful tool for building decentralized applications.
+The FULL-three package simplifies the setup process for a full-stack web3 project. Users can easily initialize this project in their desired directory by running `npx full-three` in the command line. The package provides both frontend and backend configurations, enabling users to seamlessly interact with Ethereum and Ethereum-like networks. It comes with essential dependencies and devDependencies for a smooth development experience and provides deployment scripts for various networks, making it a powerful tool for building decentralized applications.
 
 ## How to Run (Frontend)
 
